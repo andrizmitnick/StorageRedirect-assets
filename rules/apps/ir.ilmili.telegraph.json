@@ -5,9 +5,9 @@
   "description": {
     "overwrite_default": true,
     "en": "<b>This config has rules listed below:</b>
-          <br>
-          <br>
+          <br><br>
           <b>Synced Folder</b>
+          <br>
           \"Telegram/Telegram Video\" > \"Videos/Telegram\""
   },
   "authors": [
@@ -73,5 +73,5 @@
       "en": "No Description"
     }
   ],
-  " mount_dirs " : [ " DCIM " ]
+  " mount_dirs " : ["DCIM"]
 }
