@@ -1,8 +1,9 @@
 {
   "package": "bingdic.android.activity",
-  "recommended": false,
-  "verified": true,
+  "recommended": true,
+  "verified": false,
+ 
   "authors": [
-    "UVJkiNTQ"
+    "zhxhwyzh14"
   ]
 }
